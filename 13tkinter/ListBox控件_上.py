@@ -49,7 +49,7 @@ print(lb.size())
 print(lb.get(0,3))
 
 
-#得到当前选中的
+#得到当前选中的 索引
 print(lb.curselection())
 
 

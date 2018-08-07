@@ -21,7 +21,9 @@ menu1 = tkinter.Menu(menubar, tearoff=False)
 
 for item in ["A", "B", "C", "退出"]:
     if item == "退出":
-        menu1.add_command(label=item,command=win.quit)
+        #添加分割线
+        menu1.add_separator()
+        menu1.add_command(label=item, command=win.quit)
         pass
     else:
         menu1.add_command(label=item, command=update)
@@ -30,14 +32,12 @@ for item in ["A", "B", "C", "退出"]:
 
 menubar.add_cascade(label="字母", menu=menu1)
 
-
-
 # 创建另外一个菜单
 menu2 = tkinter.Menu(menubar, tearoff=False)
 
 for item in ["red", "blue", "green", "yellow"]:
     if item == "退出":
-        menu2.add_command(label=item,command=win.quit)
+        menu2.add_command(label=item, command=win.quit)
         pass
     else:
         menu2.add_command(label=item, command=update)
@@ -45,10 +45,5 @@ for item in ["red", "blue", "green", "yellow"]:
     pass
 
 menubar.add_cascade(label="颜色", menu=menu2)
-
-
-
-
-
 
 win.mainloop()

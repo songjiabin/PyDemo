@@ -6,14 +6,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e252b9-3c60-4442-a124-fd82f5cb7331" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/13tkinter/ListBox控件_Last.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/13tkinter/ListBox控件_下.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/13tkinter/ListBox控件_中.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/13tkinter/Menu顶层菜单控件.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/13tkinter/Scale控件.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/13tkinter/SpinBox.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13tkinter/ComboBox下拉控件.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13tkinter/Frame控件.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13tkinter/树状数据.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13tkinter/表格数据.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13tkinter/鼠标右键菜单控件.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/13tkinter/ListBox控件.py" afterPath="$PROJECT_DIR$/13tkinter/ListBox控件_上.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/Menu顶层菜单控件.py" afterPath="$PROJECT_DIR$/13tkinter/Menu顶层菜单控件.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,12 +23,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Menu顶层菜单控件.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/13tkinter/Menu顶层菜单控件.py">
+      <file leaf-file-name="树状数据.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13tkinter/树状数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-              <folding />
+            <state relative-caret-position="172">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,11 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4时间/日历.py" />
-        <option value="$PROJECT_DIR$/5模块/模块1.py" />
-        <option value="$PROJECT_DIR$/5模块/自定义模块.py" />
-        <option value="$PROJECT_DIR$/5模块/自定义模块2.py" />
-        <option value="$PROJECT_DIR$/5模块/反思书.txt" />
         <option value="$PROJECT_DIR$/5模块/自定义模块3.py" />
         <option value="$PROJECT_DIR$/5模块/__name_属性.py" />
         <option value="$PROJECT_DIR$/5模块/AC.py" />
@@ -100,6 +96,11 @@
         <option value="$PROJECT_DIR$/13tkinter/SpinBox.py" />
         <option value="$PROJECT_DIR$/13tkinter/Menu顶层菜单.py" />
         <option value="$PROJECT_DIR$/13tkinter/Menu顶层菜单控件.py" />
+        <option value="$PROJECT_DIR$/13tkinter/鼠标右键菜单控件.py" />
+        <option value="$PROJECT_DIR$/13tkinter/ComboBox下拉控件.py" />
+        <option value="$PROJECT_DIR$/13tkinter/Frame控件.py" />
+        <option value="$PROJECT_DIR$/13tkinter/表格数据.py" />
+        <option value="$PROJECT_DIR$/13tkinter/树状数据.py" />
       </list>
     </option>
   </component>
@@ -144,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -162,6 +162,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,15 +171,15 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/py_project_path/13tkinter/Button控件.py" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\py_project_path\other" />
+      <recent name="E:\py_project_path" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\py_project_path\13tkinter" />
       <recent name="E:\py_project_path\7多态" />
       <recent name="E:\py_project_path\6面向对象" />
       <recent name="E:\py_project_path\5模块" />
-      <recent name="E:\py_project_path" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\py_project_path\other" />
       <recent name="E:\py_project_path" />
     </key>
   </component>
@@ -194,20 +195,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Menu顶层菜单控件">
-    <configuration name="数据持久化的操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.树状数据">
+    <configuration name="表格数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件/数据持久化的操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/表格数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,7 +322,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ListBox控件_下" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="鼠标右键菜单控件" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -333,13 +334,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/ListBox控件_下.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/鼠标右键菜单控件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ListBox控件_Last" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="树状数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -351,13 +352,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/ListBox控件_Last.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/树状数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Menu顶层菜单控件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ComboBox下拉控件" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -369,7 +370,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/Menu顶层菜单控件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/ComboBox下拉控件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Frame控件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="py_project_path" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/Frame控件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -411,38 +430,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Text带有滚动条的控件" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/Text带有滚动条的控件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ListBox控件_下" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ListBox控件_Last" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Scale控件" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SpinBox" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Menu顶层菜单控件" />
+      <item index="0" class="java.lang.String" itemvalue="Python.鼠标右键菜单控件" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ComboBox下拉控件" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Frame控件" />
+      <item index="3" class="java.lang.String" itemvalue="Python.表格数据" />
+      <item index="4" class="java.lang.String" itemvalue="Python.树状数据" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Menu顶层菜单控件" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SpinBox" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Scale控件" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ListBox控件_Last" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ListBox控件_下" />
+        <item index="0" class="java.lang.String" itemvalue="Python.树状数据" />
+        <item index="1" class="java.lang.String" itemvalue="Python.表格数据" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Frame控件" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ComboBox下拉控件" />
+        <item index="4" class="java.lang.String" itemvalue="Python.鼠标右键菜单控件" />
       </list>
     </recent_temporary>
   </component>
@@ -480,9 +481,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5112835" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13189772" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26379544" sideWeight="0.4887165" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21265142" sideWeight="0.4887165" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496474" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09690444" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -514,41 +515,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6面向对象/继承2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6面向对象/继承3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6面向对象/继承1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6面向对象/多继承_mother.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7多态/Cat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7多态/Anima.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -815,7 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,7 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -839,7 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,7 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -871,15 +833,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/13tkinter/Menu顶层菜单控件.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13tkinter/ComboBox下拉控件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13tkinter/Frame控件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13tkinter/表格数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13tkinter/鼠标右键菜单控件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13tkinter/树状数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

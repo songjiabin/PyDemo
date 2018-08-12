@@ -11,6 +11,7 @@ path = r"E:\py_project_path\demo.txt"
 
 
 # 简单的方式
+# r表示是文本文件，rb是二进制文件
 with open(path, "r")  as  f1:
     print(f1.read())
 

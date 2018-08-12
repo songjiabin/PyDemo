@@ -10,6 +10,6 @@
 from PIL import Image
 
 # 打开图片
-img = Image.open("wechat.png");
+img = Image.open("2.png");
 
 print(img.format, img.size, img.mode)

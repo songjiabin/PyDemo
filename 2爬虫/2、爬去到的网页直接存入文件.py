@@ -8,3 +8,9 @@ urllib.request.urlretrieve("http://www.jjmima.top",filename=path)
 #清除缓存
 
 urllib.request.urlcleanup()
+
+
+
+
+
+

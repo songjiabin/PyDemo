@@ -3,7 +3,7 @@ import ssl
 import re
 
 
-# 爬去 糗事百科的数据 ajax的数据
+# 爬去  ajax的数据
 def ajaxCrawler(url):
     heads = {
         "User-Agent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Maxthon 2.0)"

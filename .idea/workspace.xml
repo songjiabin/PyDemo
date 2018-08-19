@@ -1,23 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/18修改背景图片/修改背景图片.py" line="7" mnemonic="2" />
-    <bookmark url="file://$PROJECT_DIR$/23excel文件处理/2读取xlsxl文件(全部).py" line="18" mnemonic="3" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="39e252b9-3c60-4442-a124-fd82f5cb7331" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/25高阶函数map与reduce/map.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/25高阶函数map与reduce/map、reduce联合使用.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/25高阶函数map与reduce/reduce.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/26高阶函数/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/26高阶函数/高阶函数-filter.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/26高阶函数/高阶函数-sorted.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/27单元测试/对函数进行单元测试/myTest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/27单元测试/对函数进行单元测试/对函数进行单元测试.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/27单元测试/对类进行单元测试/Person.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/27单元测试/对类进行单元测试/myTest.py" />
+    <list default="true" id="efad2501-5358-404a-acee-00d029157b21" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/1基础/3队列/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1基础/4时间/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1基础/5模块/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1基础/6面向对象/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1基础/7多态/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1基础/8对象的属性和类别/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1基础/9动态添加属性方法/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1基础/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1基础/other/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/10、HTTP请求_POST.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/11、抓取网页动态Ajax请求的数据.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/12、爬去糗事百科数据.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/1、urllib爬虫网页.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/2、爬去到的网页直接存入文件.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/3、模拟浏览器.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/4、模拟浏览器_完成的请求头.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/5、设置超时.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/6、HTTP请求_GET.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/7、json数据解析.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/8、读取本地的json数据.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/9、向本地写入json数据.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/res/file.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/res/基本密码博客.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2爬虫/res/爬去到的网页直接存入文件.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/持久化.txt" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/10property/@property.py" afterPath="$PROJECT_DIR$/1基础/10property/@property.py" />
+      <change beforePath="$PROJECT_DIR$/10property/__init__.py" afterPath="$PROJECT_DIR$/1基础/10property/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/11运算符重载/__init__.py" afterPath="$PROJECT_DIR$/1基础/11运算符重载/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/11运算符重载/add方法.py" afterPath="$PROJECT_DIR$/1基础/11运算符重载/add方法.py" />
+      <change beforePath="$PROJECT_DIR$/12发短信邮件/__init__.py" afterPath="$PROJECT_DIR$/1基础/12发短信邮件/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/12发短信邮件/发短信.py" afterPath="$PROJECT_DIR$/1基础/12发短信邮件/发短信.py" />
+      <change beforePath="$PROJECT_DIR$/12发短信邮件/发邮件.py" afterPath="$PROJECT_DIR$/1基础/12发短信邮件/发邮件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/Button控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/Button控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/CheckBox多选框控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/CheckBox多选框控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/ComboBox下拉控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/ComboBox下拉控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/Entry控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/Entry控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/Frame控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/Frame控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/Label控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/Label控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/ListBox控件_Last.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/ListBox控件_Last.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/ListBox控件_上.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/ListBox控件_上.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/ListBox控件_下.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/ListBox控件_下.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/ListBox控件_中.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/ListBox控件_中.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/Menu顶层菜单控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/Menu顶层菜单控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/RadioButton单选控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/RadioButton单选控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/Scale控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/Scale控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/SpinBox.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/SpinBox.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/Text带有滚动条的控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/Text带有滚动条的控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/Text控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/Text控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/__init__.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/tkinter简单事例.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/tkinter简单事例.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/响应所有事件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/响应所有事件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/响应指定按键事件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/响应指定按键事件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/响应特殊按键事件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/响应特殊按键事件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/响应组合按键事件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/响应组合按键事件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/树状数据.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/树状数据.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/相对布局.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/相对布局.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/绝对布局.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/绝对布局.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/表格布局.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/表格布局.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/表格数据.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/表格数据.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/鼠标右键菜单控件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/鼠标右键菜单控件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/鼠标点击事件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/鼠标点击事件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/鼠标移动事件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/鼠标移动事件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/鼠标进入、离开事件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/鼠标进入、离开事件.py" />
+      <change beforePath="$PROJECT_DIR$/13tkinter/鼠标释放事件.py" afterPath="$PROJECT_DIR$/1基础/13tkinter/鼠标释放事件.py" />
+      <change beforePath="$PROJECT_DIR$/14tkinter目录树/TreeWindows.py" afterPath="$PROJECT_DIR$/1基础/14tkinter目录树/TreeWindows.py" />
+      <change beforePath="$PROJECT_DIR$/14tkinter目录树/infoWindow.py" afterPath="$PROJECT_DIR$/1基础/14tkinter目录树/infoWindow.py" />
+      <change beforePath="$PROJECT_DIR$/14tkinter目录树/treeFile.py" afterPath="$PROJECT_DIR$/1基础/14tkinter目录树/treeFile.py" />
+      <change beforePath="$PROJECT_DIR$/15读写csv文件/__init__.py" afterPath="$PROJECT_DIR$/1基础/14tkinter目录树/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/15读写csv文件/写csv文件.py" afterPath="$PROJECT_DIR$/1基础/15读写csv文件/写csv文件.py" />
+      <change beforePath="$PROJECT_DIR$/15读写csv文件/写入文件.csv" afterPath="$PROJECT_DIR$/1基础/15读写csv文件/写入文件.csv" />
+      <change beforePath="$PROJECT_DIR$/15读写csv文件/淘宝综合数据包.csv" afterPath="$PROJECT_DIR$/1基础/15读写csv文件/淘宝综合数据包.csv" />
+      <change beforePath="$PROJECT_DIR$/15读写csv文件/读csv文件.py" afterPath="$PROJECT_DIR$/1基础/15读写csv文件/读csv文件.py" />
+      <change beforePath="$PROJECT_DIR$/16读取pdf文件/Java 开发接口.pdf" afterPath="$PROJECT_DIR$/1基础/16读取pdf文件/Java 开发接口.pdf" />
+      <change beforePath="$PROJECT_DIR$/16读取pdf文件/Java 开发接口.txt" afterPath="$PROJECT_DIR$/1基础/16读取pdf文件/Java 开发接口.txt" />
+      <change beforePath="$PROJECT_DIR$/16读取pdf文件/__init__.py" afterPath="$PROJECT_DIR$/1基础/15读写csv文件/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/16读取pdf文件/读取pdf.py" afterPath="$PROJECT_DIR$/1基础/16读取pdf文件/读取pdf.py" />
+      <change beforePath="$PROJECT_DIR$/17播放音乐/__init__.py" afterPath="$PROJECT_DIR$/1基础/16读取pdf文件/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/17播放音乐/res/Dreamhouse - Sha-La-La.mp3" afterPath="$PROJECT_DIR$/1基础/17播放音乐/res/Dreamhouse - Sha-La-La.mp3" />
+      <change beforePath="$PROJECT_DIR$/17播放音乐/播放音乐.py" afterPath="$PROJECT_DIR$/1基础/17播放音乐/播放音乐.py" />
+      <change beforePath="$PROJECT_DIR$/18修改背景图片/__init__.py" afterPath="$PROJECT_DIR$/1基础/17播放音乐/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/18修改背景图片/res/cafe-3537801__340.jpg" afterPath="$PROJECT_DIR$/1基础/18修改背景图片/res/cafe-3537801__340.jpg" />
+      <change beforePath="$PROJECT_DIR$/18修改背景图片/修改背景图片.py" afterPath="$PROJECT_DIR$/1基础/18修改背景图片/修改背景图片.py" />
+      <change beforePath="$PROJECT_DIR$/19整蛊小程序/__init__.py" afterPath="$PROJECT_DIR$/1基础/18修改背景图片/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/19整蛊小程序/res/1.jpg" afterPath="$PROJECT_DIR$/1基础/19整蛊小程序/res/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/19整蛊小程序/res/1.mp3" afterPath="$PROJECT_DIR$/1基础/19整蛊小程序/res/1.mp3" />
+      <change beforePath="$PROJECT_DIR$/19整蛊小程序/res/2.jpg" afterPath="$PROJECT_DIR$/1基础/19整蛊小程序/res/2.jpg" />
+      <change beforePath="$PROJECT_DIR$/19整蛊小程序/res/2.mp3" afterPath="$PROJECT_DIR$/1基础/19整蛊小程序/res/2.mp3" />
+      <change beforePath="$PROJECT_DIR$/19整蛊小程序/res/3.jpg" afterPath="$PROJECT_DIR$/1基础/19整蛊小程序/res/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/19整蛊小程序/res/3.mp3" afterPath="$PROJECT_DIR$/1基础/19整蛊小程序/res/3.mp3" />
+      <change beforePath="$PROJECT_DIR$/19整蛊小程序/整蛊小程序.py" afterPath="$PROJECT_DIR$/1基础/19整蛊小程序/整蛊小程序.py" />
+      <change beforePath="$PROJECT_DIR$/1文件/数据持久化的操作.py" afterPath="$PROJECT_DIR$/1基础/1文件/数据持久化的操作.py" />
+      <change beforePath="$PROJECT_DIR$/1文件/文件的读写.py" afterPath="$PROJECT_DIR$/1基础/1文件/文件的读写.py" />
+      <change beforePath="$PROJECT_DIR$/20键盘模拟/__init__.py" afterPath="$PROJECT_DIR$/1基础/19整蛊小程序/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/20键盘模拟/键盘模拟.py" afterPath="$PROJECT_DIR$/1基础/20键盘模拟/键盘模拟.py" />
+      <change beforePath="$PROJECT_DIR$/21鼠标模拟/鼠标模拟.py" afterPath="$PROJECT_DIR$/1基础/21鼠标模拟/鼠标模拟.py" />
+      <change beforePath="$PROJECT_DIR$/22读取doc与docx文件/1读取doc与docx文件.py" afterPath="$PROJECT_DIR$/1基础/22读取doc与docx文件/1读取doc与docx文件.py" />
+      <change beforePath="$PROJECT_DIR$/22读取doc与docx文件/2读取doc与docx文件并写入到其他文件中去.py" afterPath="$PROJECT_DIR$/1基础/22读取doc与docx文件/2读取doc与docx文件并写入到其他文件中去.py" />
+      <change beforePath="$PROJECT_DIR$/22读取doc与docx文件/3创建word文档.py" afterPath="$PROJECT_DIR$/1基础/22读取doc与docx文件/3创建word文档.py" />
+      <change beforePath="$PROJECT_DIR$/22读取doc与docx文件/__init__.py" afterPath="$PROJECT_DIR$/1基础/20键盘模拟/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/22读取doc与docx文件/res/a.docx" afterPath="$PROJECT_DIR$/1基础/22读取doc与docx文件/res/a.docx" />
+      <change beforePath="$PROJECT_DIR$/22读取doc与docx文件/res/b.doc" afterPath="$PROJECT_DIR$/1基础/22读取doc与docx文件/res/b.doc" />
+      <change beforePath="$PROJECT_DIR$/22读取doc与docx文件/res/other.txt" afterPath="$PROJECT_DIR$/1基础/22读取doc与docx文件/res/other.txt" />
+      <change beforePath="$PROJECT_DIR$/23excel文件处理/1读取xlsxl文件.py" afterPath="$PROJECT_DIR$/1基础/23excel文件处理/1读取xlsxl文件.py" />
+      <change beforePath="$PROJECT_DIR$/23excel文件处理/2读取xlsxl文件(全部).py" afterPath="$PROJECT_DIR$/1基础/23excel文件处理/2读取xlsxl文件(全部).py" />
+      <change beforePath="$PROJECT_DIR$/23excel文件处理/3读取xlsl、xls文件.py" afterPath="$PROJECT_DIR$/1基础/23excel文件处理/3读取xlsl、xls文件.py" />
+      <change beforePath="$PROJECT_DIR$/23excel文件处理/4写入xls文件.py" afterPath="$PROJECT_DIR$/1基础/23excel文件处理/4写入xls文件.py" />
+      <change beforePath="$PROJECT_DIR$/23excel文件处理/__init__.py" afterPath="$PROJECT_DIR$/1基础/21鼠标模拟/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/23excel文件处理/res/a.xls" afterPath="$PROJECT_DIR$/1基础/23excel文件处理/res/a.xls" />
+      <change beforePath="$PROJECT_DIR$/23excel文件处理/res/b.xlsx" afterPath="$PROJECT_DIR$/1基础/23excel文件处理/res/b.xlsx" />
+      <change beforePath="$PROJECT_DIR$/23excel文件处理/res/写入.xls" afterPath="$PROJECT_DIR$/1基础/23excel文件处理/res/写入.xls" />
+      <change beforePath="$PROJECT_DIR$/24ppt写/__init__.py" afterPath="$PROJECT_DIR$/1基础/22读取doc与docx文件/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/24ppt写/写ppt.py" afterPath="$PROJECT_DIR$/1基础/24ppt写/写ppt.py" />
+      <change beforePath="$PROJECT_DIR$/25高阶函数map与reduce/__init__.py" afterPath="$PROJECT_DIR$/1基础/23excel文件处理/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/25高阶函数map与reduce/map.py" afterPath="$PROJECT_DIR$/1基础/25高阶函数map与reduce/map.py" />
+      <change beforePath="$PROJECT_DIR$/25高阶函数map与reduce/map、reduce联合使用.py" afterPath="$PROJECT_DIR$/1基础/25高阶函数map与reduce/map、reduce联合使用.py" />
+      <change beforePath="$PROJECT_DIR$/25高阶函数map与reduce/reduce.py" afterPath="$PROJECT_DIR$/1基础/25高阶函数map与reduce/reduce.py" />
+      <change beforePath="$PROJECT_DIR$/26高阶函数/__init__.py" afterPath="$PROJECT_DIR$/1基础/24ppt写/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/26高阶函数/高阶函数-filter.py" afterPath="$PROJECT_DIR$/1基础/26高阶函数/高阶函数-filter.py" />
+      <change beforePath="$PROJECT_DIR$/26高阶函数/高阶函数-sorted.py" afterPath="$PROJECT_DIR$/1基础/26高阶函数/高阶函数-sorted.py" />
+      <change beforePath="$PROJECT_DIR$/27单元测试/对函数进行单元测试/myTest.py" afterPath="$PROJECT_DIR$/1基础/27单元测试/对函数进行单元测试/myTest.py" />
+      <change beforePath="$PROJECT_DIR$/27单元测试/对函数进行单元测试/对函数进行单元测试.py" afterPath="$PROJECT_DIR$/1基础/27单元测试/对函数进行单元测试/对函数进行单元测试.py" />
+      <change beforePath="$PROJECT_DIR$/27单元测试/对类进行单元测试/Person.py" afterPath="$PROJECT_DIR$/1基础/27单元测试/对类进行单元测试/Person.py" />
+      <change beforePath="$PROJECT_DIR$/27单元测试/对类进行单元测试/myTest.py" afterPath="$PROJECT_DIR$/1基础/27单元测试/对类进行单元测试/myTest.py" />
+      <change beforePath="$PROJECT_DIR$/2os模块/1.txt" afterPath="$PROJECT_DIR$/1基础/2os模块/1.txt" />
+      <change beforePath="$PROJECT_DIR$/2os模块/os.py" afterPath="$PROJECT_DIR$/1基础/2os模块/os.py" />
+      <change beforePath="$PROJECT_DIR$/2os模块/控制窗口的显示和隐藏.py" afterPath="$PROJECT_DIR$/1基础/2os模块/控制窗口的显示和隐藏.py" />
+      <change beforePath="$PROJECT_DIR$/3队列/__init__.py" afterPath="$PROJECT_DIR$/1基础/25高阶函数map与reduce/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/3队列/利用栈遍历目录.py" afterPath="$PROJECT_DIR$/1基础/3队列/利用栈遍历目录.py" />
+      <change beforePath="$PROJECT_DIR$/3队列/利用递归遍历目录.py" afterPath="$PROJECT_DIR$/1基础/3队列/利用递归遍历目录.py" />
+      <change beforePath="$PROJECT_DIR$/3队列/利用队列遍历目录.py" afterPath="$PROJECT_DIR$/1基础/3队列/利用队列遍历目录.py" />
+      <change beforePath="$PROJECT_DIR$/3队列/队列.py" afterPath="$PROJECT_DIR$/1基础/3队列/队列.py" />
+      <change beforePath="$PROJECT_DIR$/4时间/datatime.py" afterPath="$PROJECT_DIR$/1基础/4时间/datatime.py" />
+      <change beforePath="$PROJECT_DIR$/4时间/日历.py" afterPath="$PROJECT_DIR$/1基础/4时间/日历.py" />
+      <change beforePath="$PROJECT_DIR$/4时间/时间.py" afterPath="$PROJECT_DIR$/1基础/4时间/时间.py" />
+      <change beforePath="$PROJECT_DIR$/4时间/时间2.py" afterPath="$PROJECT_DIR$/1基础/4时间/时间2.py" />
+      <change beforePath="$PROJECT_DIR$/5模块/AC.py" afterPath="$PROJECT_DIR$/1基础/5模块/AC.py" />
+      <change beforePath="$PROJECT_DIR$/5模块/__name_属性.py" afterPath="$PROJECT_DIR$/1基础/5模块/__name_属性.py" />
+      <change beforePath="$PROJECT_DIR$/5模块/wechat.png" afterPath="$PROJECT_DIR$/1基础/5模块/wechat.png" />
+      <change beforePath="$PROJECT_DIR$/5模块/引入第三方的包.py" afterPath="$PROJECT_DIR$/1基础/5模块/引入第三方的包.py" />
+      <change beforePath="$PROJECT_DIR$/5模块/模块1.py" afterPath="$PROJECT_DIR$/1基础/5模块/模块1.py" />
+      <change beforePath="$PROJECT_DIR$/5模块/自定义模块.py" afterPath="$PROJECT_DIR$/1基础/5模块/自定义模块.py" />
+      <change beforePath="$PROJECT_DIR$/5模块/自定义模块2.py" afterPath="$PROJECT_DIR$/1基础/5模块/自定义模块2.py" />
+      <change beforePath="$PROJECT_DIR$/5模块/自定义模块3.py" afterPath="$PROJECT_DIR$/1基础/5模块/自定义模块3.py" />
+      <change beforePath="$PROJECT_DIR$/6面向对象/2、创建类的实例.py" afterPath="$PROJECT_DIR$/1基础/6面向对象/2、创建类的实例.py" />
+      <change beforePath="$PROJECT_DIR$/6面向对象/多继承.py" afterPath="$PROJECT_DIR$/1基础/6面向对象/多继承.py" />
+      <change beforePath="$PROJECT_DIR$/6面向对象/多继承_father.py" afterPath="$PROJECT_DIR$/1基础/6面向对象/多继承_father.py" />
+      <change beforePath="$PROJECT_DIR$/6面向对象/多继承_mother.py" afterPath="$PROJECT_DIR$/1基础/6面向对象/多继承_mother.py" />
+      <change beforePath="$PROJECT_DIR$/6面向对象/私有化.py" afterPath="$PROJECT_DIR$/1基础/6面向对象/私有化.py" />
+      <change beforePath="$PROJECT_DIR$/6面向对象/第一个类_1.py" afterPath="$PROJECT_DIR$/1基础/6面向对象/第一个类_1.py" />
+      <change beforePath="$PROJECT_DIR$/6面向对象/继承1.py" afterPath="$PROJECT_DIR$/1基础/6面向对象/继承1.py" />
+      <change beforePath="$PROJECT_DIR$/6面向对象/继承2.py" afterPath="$PROJECT_DIR$/1基础/6面向对象/继承2.py" />
+      <change beforePath="$PROJECT_DIR$/6面向对象/继承3.py" afterPath="$PROJECT_DIR$/1基础/6面向对象/继承3.py" />
+      <change beforePath="$PROJECT_DIR$/6面向对象/重写.py" afterPath="$PROJECT_DIR$/1基础/6面向对象/重写.py" />
+      <change beforePath="$PROJECT_DIR$/7多态/Anima.py" afterPath="$PROJECT_DIR$/1基础/7多态/Anima.py" />
+      <change beforePath="$PROJECT_DIR$/7多态/Cat.py" afterPath="$PROJECT_DIR$/1基础/7多态/Cat.py" />
+      <change beforePath="$PROJECT_DIR$/7多态/Mouse.py" afterPath="$PROJECT_DIR$/1基础/7多态/Mouse.py" />
+      <change beforePath="$PROJECT_DIR$/7多态/Person.py" afterPath="$PROJECT_DIR$/1基础/7多态/Person.py" />
+      <change beforePath="$PROJECT_DIR$/7多态/__init__.py" afterPath="$PROJECT_DIR$/1基础/26高阶函数/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/8对象的属性和类别/Person.py" afterPath="$PROJECT_DIR$/1基础/8对象的属性和类别/Person.py" />
+      <change beforePath="$PROJECT_DIR$/8对象的属性和类别/__init__.py" afterPath="$PROJECT_DIR$/1基础/27单元测试/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/9动态添加属性方法/Person.py" afterPath="$PROJECT_DIR$/1基础/9动态添加属性方法/Person.py" />
+      <change beforePath="$PROJECT_DIR$/9动态添加属性方法/__init__.py" afterPath="$PROJECT_DIR$/1基础/27单元测试/对函数进行单元测试/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/other/1.py" afterPath="$PROJECT_DIR$/1基础/other/1.py" />
+      <change beforePath="$PROJECT_DIR$/other/__init__.py" afterPath="$PROJECT_DIR$/1基础/27单元测试/对类进行单元测试/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/other/demo.py" afterPath="$PROJECT_DIR$/1基础/other/demo.py" />
+      <change beforePath="$PROJECT_DIR$/other/demo.txt" afterPath="$PROJECT_DIR$/1基础/other/demo.txt" />
+      <change beforePath="$PROJECT_DIR$/other/name.py" afterPath="$PROJECT_DIR$/1基础/other/name.py" />
+      <change beforePath="$PROJECT_DIR$/other/write.txt" afterPath="$PROJECT_DIR$/1基础/other/write.txt" />
+      <change beforePath="$PROJECT_DIR$/other/异常捕获.py" afterPath="$PROJECT_DIR$/1基础/other/异常捕获.py" />
+      <change beforePath="$PROJECT_DIR$/other/持久化.txt" afterPath="$PROJECT_DIR$/1基础/other/持久化.txt" />
+      <change beforePath="$PROJECT_DIR$/other/断言.py" afterPath="$PROJECT_DIR$/1基础/other/断言.py" />
+      <change beforePath="$PROJECT_DIR$/other/通用的装饰.py" afterPath="$PROJECT_DIR$/1基础/other/通用的装饰.py" />
     </list>
+    <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,24 +187,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/27单元测试/对类进行单元测试/myTest.py">
+      <file leaf-file-name="12、爬去糗事百科数据.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2爬虫/12、爬去糗事百科数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="339">
+              <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/27单元测试/对类进行单元测试/Person.py">
+      <file leaf-file-name="糗事百科.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2爬虫/res/糗事百科.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="311">
+              <caret line="501" column="0" lean-forward="true" selection-start-line="501" selection-start-column="0" selection-end-line="501" selection-end-column="0" />
+              <folding>
+                <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#6;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#7;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#8;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#9;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#10;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#11;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#12;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#13;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#14;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#15;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#16;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#17;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#18;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#19;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#20;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#21;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#22;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#23;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#24;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#89496#89654#0" expanded="false" />
+                <element signature="n#script#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,11 +257,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Entry</find>
-      <find />
-      <find>path</find>
-      <find>f</find>
-      <find>sut</find>
+      <find>http://www.sunck.wang:8085</find>
+      <find>content-left</find>
+      <find>author</find>
+      <find>div class=&quot;author clearfix</find>
+      <find>&lt;span class=&quot;stats-vote&quot;&gt;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -73,86 +270,29 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/13tkinter/表格数据.py" />
-        <option value="$PROJECT_DIR$/13tkinter/树状数据.py" />
-        <option value="$PROJECT_DIR$/13tkinter/绝对布局.py" />
-        <option value="$PROJECT_DIR$/13tkinter/相对布局.py" />
-        <option value="$PROJECT_DIR$/13tkinter/表格布局.py" />
-        <option value="$PROJECT_DIR$/13tkinter/鼠标点击事件.py" />
-        <option value="$PROJECT_DIR$/13tkinter/鼠标移动事件.py" />
-        <option value="$PROJECT_DIR$/13tkinter/鼠标释放事件.py" />
-        <option value="$PROJECT_DIR$/13tkinter/鼠标进入事件.py" />
-        <option value="$PROJECT_DIR$/13tkinter/鼠标进入、离开事件.py" />
-        <option value="$PROJECT_DIR$/13tkinter/响应所有事件.py" />
-        <option value="$PROJECT_DIR$/13tkinter/响应特殊按键事件.py" />
-        <option value="$PROJECT_DIR$/13tkinter/SpinBox.py" />
-        <option value="$PROJECT_DIR$/13tkinter/响应指定按键事件.py" />
-        <option value="$PROJECT_DIR$/13tkinter/响应组合按键事件.py" />
-        <option value="$PROJECT_DIR$/14tkinter目录树.py" />
-        <option value="$PROJECT_DIR$/13tkinter/tkinter简单事例.py" />
-        <option value="$PROJECT_DIR$/14tkinter目录树/Demo.py" />
-        <option value="$PROJECT_DIR$/14tkinter目录树/treeFile.py" />
-        <option value="$PROJECT_DIR$/14tkinter目录树/infoWindow.py" />
-        <option value="$PROJECT_DIR$/15读写csv文件/读csv文件.py" />
-        <option value="$PROJECT_DIR$/15读写csv文件/写csv文件.py" />
-        <option value="$PROJECT_DIR$/14tkinter目录树/TreeWindows.py" />
-        <option value="$PROJECT_DIR$/1文件/文件的读写.py" />
-        <option value="$PROJECT_DIR$/16读取pdf文件/读取pdf.py" />
-        <option value="$PROJECT_DIR$/17播放音乐/播放音乐.py" />
-        <option value="$PROJECT_DIR$/18修改背景图片/修改背景图片.py" />
-        <option value="$PROJECT_DIR$/20键盘模拟/键盘模拟.py" />
-        <option value="$PROJECT_DIR$/21鼠标模拟/鼠标模拟.py" />
-        <option value="$PROJECT_DIR$/19整蛊小程序/整蛊小程序.py" />
-        <option value="$PROJECT_DIR$/22读取doc与docx文件/22读取doc与docx文件.py" />
-        <option value="$PROJECT_DIR$/22读取doc与docx文件/1读取doc与docx文件.py" />
-        <option value="$PROJECT_DIR$/22读取doc与docx文件/2读取doc与docx文件并写入到其他文件中去.py" />
-        <option value="$PROJECT_DIR$/22读取doc与docx文件/3创建word文档.py" />
-        <option value="$PROJECT_DIR$/23excel文件处理/读取excel文件.py" />
-        <option value="$PROJECT_DIR$/23excel文件处理/读取xlsxl文件.py" />
-        <option value="$PROJECT_DIR$/23excel文件处理/2读取xlsxl文件(全部).py" />
-        <option value="$PROJECT_DIR$/23excel文件处理/3读取xlsl文件.py" />
-        <option value="$PROJECT_DIR$/other/1.py" />
-        <option value="$PROJECT_DIR$/23excel文件处理/4写入xls文件.py" />
-        <option value="$PROJECT_DIR$/24ppt写/写ppt.py" />
-        <option value="$PROJECT_DIR$/25高阶函数map与reduce/map.py" />
-        <option value="$PROJECT_DIR$/25高阶函数map与reduce/reduce.py" />
-        <option value="$PROJECT_DIR$/25高阶函数map与reduce/map、reduce联合使用.py" />
-        <option value="$PROJECT_DIR$/26高阶函数/高阶函数.py" />
-        <option value="$PROJECT_DIR$/26高阶函数-filter/高阶函数.py" />
-        <option value="$PROJECT_DIR$/26高阶函数/高阶函数-sorted.py" />
-        <option value="$PROJECT_DIR$/27单元测试/myTest.py" />
-        <option value="$PROJECT_DIR$/27单元测试/对函数进行单元测试.py" />
-        <option value="$PROJECT_DIR$/27单元测试/对类进行单元测试/myTest.py" />
-        <option value="$PROJECT_DIR$/27单元测试/对类进行单元测试/Person.py" />
+        <option value="$PROJECT_DIR$/2爬虫/urllib爬虫网页.py" />
+        <option value="$PROJECT_DIR$/2爬虫/爬去到的网页直接存入文件.py" />
+        <option value="$PROJECT_DIR$/2爬虫/模拟浏览器.py" />
+        <option value="$PROJECT_DIR$/2爬虫/res/模拟浏览器_完成的请求头.py" />
+        <option value="$PROJECT_DIR$/2爬虫/5、设置超时.py" />
+        <option value="$PROJECT_DIR$/2爬虫/6、HTTP请求.py" />
+        <option value="$PROJECT_DIR$/2爬虫/7、json数据解析.py" />
+        <option value="$PROJECT_DIR$/2爬虫/8、读取本地的json数据.py" />
+        <option value="$PROJECT_DIR$/2爬虫/res/向本地写入的json文件.json" />
+        <option value="$PROJECT_DIR$/2爬虫/9、向本地写入json数据.py" />
+        <option value="$PROJECT_DIR$/2爬虫/10、HTTP请求_POST.py" />
+        <option value="$PROJECT_DIR$/2爬虫/11、抓取网页动态Ajax请求的数据.py" />
+        <option value="$PROJECT_DIR$/2爬虫/res/糗事百科.html" />
+        <option value="$PROJECT_DIR$/2爬虫/12、爬去糗事百科数据.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="347" />
+    <option name="y" value="225" />
     <option name="width" value="1438" />
     <option name="height" value="904" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Internationalization issues</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>LossyEncoding</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -168,8 +308,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,19 +320,13 @@
             <path>
               <item name="py_project_path" type="b2602c69:ProjectViewProjectNode" />
               <item name="py_project_path" type="462c0819:PsiDirectoryNode" />
-              <item name="27单元测试" type="462c0819:PsiDirectoryNode" />
+              <item name="2爬虫" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="py_project_path" type="b2602c69:ProjectViewProjectNode" />
               <item name="py_project_path" type="462c0819:PsiDirectoryNode" />
-              <item name="27单元测试" type="462c0819:PsiDirectoryNode" />
-              <item name="对函数进行单元测试" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="py_project_path" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py_project_path" type="462c0819:PsiDirectoryNode" />
-              <item name="27单元测试" type="462c0819:PsiDirectoryNode" />
-              <item name="对类进行单元测试" type="462c0819:PsiDirectoryNode" />
+              <item name="2爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,24 +334,13 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/py_project_path/13tkinter/Button控件.py" />
-  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\py_project_path\27单元测试" />
-      <recent name="E:\py_project_path\26高阶函数" />
-      <recent name="E:\py_project_path\23excel文件处理\res" />
-      <recent name="E:\py_project_path\23excel文件处理" />
-      <recent name="E:\py_project_path\22读取doc与docx文件" />
+      <recent name="E:\py_project_path\2爬虫" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\py_project_path\27单元测试\对函数进行单元测试" />
-      <recent name="E:\py_project_path\23excel文件处理" />
-      <recent name="E:\py_project_path\other" />
-      <recent name="E:\py_project_path" />
+      <recent name="E:\py_project_path\2爬虫" />
+      <recent name="E:\py_project_path\1基础" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -232,311 +355,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in myTest.py">
-    <configuration name="高阶函数-sorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.12、爬去糗事百科数据">
+    <configuration name="10、HTTP请求_POST" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26高阶函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26高阶函数/高阶函数-sorted.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2爬虫/10、HTTP请求_POST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="整蛊小程序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11、抓取网页动态Ajax请求的数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19整蛊小程序" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19整蛊小程序/整蛊小程序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2爬虫/11、抓取网页动态Ajax请求的数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="修改背景图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12、爬去糗事百科数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18修改背景图片" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18修改背景图片/修改背景图片.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2爬虫/12、爬去糗事百科数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="修改背景图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8、读取本地的json数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18修改背景图片" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18修改背景图片/修改背景图片.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2爬虫/8、读取本地的json数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="利用队列遍历目录" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9、向本地写入json数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3队列" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3队列/利用队列遍历目录.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2爬虫/9、向本地写入json数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="时间" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4时间" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4时间/时间.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="引入第三方的包" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5模块" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5模块/引入第三方的包.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="发邮件" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12发短信邮件" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12发短信邮件/发邮件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="鼠标右键菜单控件" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/鼠标右键菜单控件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="树状数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/树状数据.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="响应组合按键事件" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13tkinter/响应组合按键事件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="map" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25高阶函数map与reduce" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25高阶函数map与reduce/map.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="reduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25高阶函数map与reduce" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25高阶函数map与reduce/reduce.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Unittests for myTest.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27单元测试" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;myTest.Test&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="Unittests for myTest.Test.test_init" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27单元测试/对类进行单元测试" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;myTest.Test.test_init&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="Unittests for myTest.Test.test_remove" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27单元测试" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;myTest.Test.test_remove&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="Unittests in myTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27单元测试/对类进行单元测试" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_project_path" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/27单元测试/对类进行单元测试/myTest.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.高阶函数-sorted" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for myTest.Test.test_remove" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for myTest.Test" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for myTest.Test.test_init" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in myTest.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python.8、读取本地的json数据" />
+      <item index="1" class="java.lang.String" itemvalue="Python.9、向本地写入json数据" />
+      <item index="2" class="java.lang.String" itemvalue="Python.10、HTTP请求_POST" />
+      <item index="3" class="java.lang.String" itemvalue="Python.11、抓取网页动态Ajax请求的数据" />
+      <item index="4" class="java.lang.String" itemvalue="Python.12、爬去糗事百科数据" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in myTest.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for myTest.Test" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for myTest.Test.test_init" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for myTest.Test.test_remove" />
-        <item index="4" class="java.lang.String" itemvalue="Python.高阶函数-sorted" />
+        <item index="0" class="java.lang.String" itemvalue="Python.12、爬去糗事百科数据" />
+        <item index="1" class="java.lang.String" itemvalue="Python.11、抓取网页动态Ajax请求的数据" />
+        <item index="2" class="java.lang.String" itemvalue="Python.10、HTTP请求_POST" />
+        <item index="3" class="java.lang.String" itemvalue="Python.9、向本地写入json数据" />
+        <item index="4" class="java.lang.String" itemvalue="Python.8、读取本地的json数据" />
       </list>
     </recent_temporary>
   </component>
@@ -548,469 +471,315 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="39e252b9-3c60-4442-a124-fd82f5cb7331" name="Default" comment="" />
-      <created>1516377870354</created>
+      <changelist id="efad2501-5358-404a-acee-00d029157b21" name="Default" comment="" />
+      <created>1534521608010</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1516377870354</updated>
+      <updated>1534521608010</updated>
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Unittests_for_myTest_Test - 2018.08.16 at 23h 29m 10s.xml">
-      <configuration name="Unittests for myTest.Test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_myTest_Test_test_init - 2018.08.16 at 23h 45m 41s.xml">
-      <configuration name="Unittests for myTest.Test.test_init" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_myTest_Test_test_init - 2018.08.16 at 23h 46m 04s.xml">
-      <configuration name="Unittests for myTest.Test.test_init" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_myTest_Test_test_remove - 2018.08.16 at 23h 28m 17s.xml">
-      <configuration name="Unittests for myTest.Test.test_remove" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_myTest_py - 2018.08.16 at 23h 46m 12s.xml">
-      <configuration name="Unittests in myTest.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_myTest_py - 2018.08.16 at 23h 46m 23s.xml">
-      <configuration name="Unittests in myTest.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_myTest_py - 2018.08.16 at 23h 46m 31s.xml">
-      <configuration name="Unittests in myTest.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_myTest_py - 2018.08.16 at 23h 46m 58s.xml">
-      <configuration name="Unittests in myTest.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_myTest_py - 2018.08.16 at 23h 47m 09s.xml">
-      <configuration name="Unittests in myTest.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_myTest_py - 2018.08.16 at 23h 47m 26s.xml">
-      <configuration name="Unittests in myTest.py" configurationId="tests" />
-    </history-entry>
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20380817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08736559" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5112835" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13189772" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32974428" sideWeight="0.4887165" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496474" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09238364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.052489907" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16958277" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08736559" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5112835" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22207268" sideWeight="0.4887165" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13189772" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20380817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496474" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7多态/__init__.py">
+    <entry file="file://$PROJECT_DIR$/2爬虫/9、向本地写入json数据.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7多态/Anima.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7多态/Cat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7多态/Mouse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18修改背景图片/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19整蛊小程序/res/1.png" />
-    <entry file="file://$PROJECT_DIR$/17播放音乐/播放音乐.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19整蛊小程序/res/2.png" />
-    <entry file="file://$PROJECT_DIR$/19整蛊小程序/res/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19整蛊小程序/res/3.png" />
-    <entry file="file://$PROJECT_DIR$/19整蛊小程序/res/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13tkinter/响应所有事件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20键盘模拟/键盘模拟.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21鼠标模拟/鼠标模拟.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19整蛊小程序/res/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19整蛊小程序/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19整蛊小程序/整蛊小程序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="34" column="51" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="34" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22读取doc与docx文件/res/other.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22读取doc与docx文件/2读取doc与docx文件并写入到其他文件中去.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22读取doc与docx文件/3创建word文档.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/异常捕获.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/demo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-441">
-          <caret line="50" column="3" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23excel文件处理/2读取xlsxl文件(全部).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23excel文件处理/3读取xlsl、xls文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="8" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="26" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23excel文件处理/4写入xls文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18修改背景图片/修改背景图片.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22读取doc与docx文件/1读取doc与docx文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="53" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23excel文件处理/1读取xlsxl文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="36" column="55" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/24ppt写/写ppt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15读写csv文件/写入文件.csv">
+    <entry file="file://$PROJECT_DIR$/2爬虫/1、urllib爬虫网页.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15读写csv文件/读csv文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15读写csv文件/写csv文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-313451744/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="3754" column="6" lean-forward="false" selection-start-line="3754" selection-start-column="6" selection-end-line="3754" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/25高阶函数map与reduce/map.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="96" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="96" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/25高阶函数map与reduce/reduce.py">
+    <entry file="file://$PROJECT_DIR$/1基础/1文件/数据持久化的操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/res/file.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="15" />
-          <folding />
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/25高阶函数map与reduce/map、reduce联合使用.py">
+    <entry file="file://$PROJECT_DIR$/2爬虫/res/爬去到的网页直接存入文件.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="-144">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/26高阶函数/高阶函数-filter.py">
+    <entry file="file://$PROJECT_DIR$/2爬虫/3、模拟浏览器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/26高阶函数/高阶函数-sorted.py">
+    <entry file="file://$PROJECT_DIR$/2爬虫/5、设置超时.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="96">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12发短信邮件/发短信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13tkinter/SpinBox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13tkinter/ListBox控件_中.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13tkinter/ListBox控件_上.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13tkinter/ComboBox下拉控件.py">
+    <entry file="file://$PROJECT_DIR$/持久化.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13tkinter/CheckBox多选框控件.py">
+    <entry file="file://$PROJECT_DIR$/1基础/other/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1基础/other/name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1基础/other/write.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1基础/other/异常捕获.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1基础/other/通用的装饰.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1基础/other/持久化.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1基础/other/断言.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1基础/other/demo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1基础/other/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/7、json数据解析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/res/基本密码博客.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/2、爬去到的网页直接存入文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="52" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/res/localjson.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/res/向本地写入的json文件.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="612" lean-forward="false" selection-start-line="0" selection-start-column="612" selection-end-line="0" selection-end-column="612" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/6、HTTP请求_GET.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/27单元测试/对函数进行单元测试/对函数进行单元测试.py">
+    <entry file="file://$PROJECT_DIR$/2爬虫/8、读取本地的json数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="240">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/27单元测试/对函数进行单元测试/myTest.py">
+    <entry file="file://$PROJECT_DIR$/2爬虫/9、向本地写入json数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/27单元测试/对类进行单元测试/myTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/27单元测试/对类进行单元测试/Person.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="240">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/4、模拟浏览器_完成的请求头.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" column="68" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/10、HTTP请求_POST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="20" column="94" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="94" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/11、抓取网页动态Ajax请求的数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/1、urllib爬虫网页.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/res/糗事百科.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="501" column="0" lean-forward="true" selection-start-line="501" selection-start-column="0" selection-end-line="501" selection-end-column="0" />
+          <folding>
+            <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#10;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#11;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#12;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#13;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#14;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#15;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#16;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#17;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#18;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#19;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#20;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#21;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#22;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#23;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#24;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#89496#89654#0" expanded="false" />
+            <element signature="n#script#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2爬虫/12、爬去糗事百科数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

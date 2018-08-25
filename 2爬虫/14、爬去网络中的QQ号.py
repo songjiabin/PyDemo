@@ -1,7 +1,7 @@
 import urllib.request
 import ssl
 import re
-import os
+import os, collections
 
 
 # 写字节格式的数据到文件中
@@ -21,7 +21,7 @@ def writeFileStr(htmlStr, toPath):
 
 def getHtmlBytes(url):
     heads = {
-        "User-Agent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Maxthon 2.0)"
+        "User-Agent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)"
     }
 
     req = urllib.request.Request(url, headers=heads)
@@ -61,8 +61,6 @@ def qqCrawler(url, toPath):
         pass
     f.close()
 
-
-
     # 匹配网址
     pat = '((http|ftp|https):\/\/[\w\-_]+(\.[\w\-_]+)+([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?)'
     re_url = re.compile(pat)
@@ -73,11 +71,27 @@ def qqCrawler(url, toPath):
     qqsList = list(set(qqsHttpList))
     print(len(qqsList))
 
+    return qqsList
+
 
 def main():
     url = "https://www.douban.com/group/topic/17359302/?start=100 "
     toPath = r"E:\py_project_path\2爬虫\res\QQ号码\QQ.txt"
-    qqCrawler(url, toPath)
+    # list = qqCrawler(url, toPath)
+    # 返回的事里面所有的网址
+
+    deque = collections.deque()
+    deque.append(url)
+
+    while len(deque) != 0:
+        targetUrl = deque.popleft()
+        urlList = qqCrawler(targetUrl, toPath)
+        for item in urlList:
+            tempUrl = item[0]
+            deque.append(tempUrl)
+            pass
+        pass
+
     pass
 
 

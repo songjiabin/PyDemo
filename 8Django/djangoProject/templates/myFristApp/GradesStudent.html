@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>班级下的学生信息</title>
+</head>
+<body>
+    <h1>班级下的学生信息</h1>
+        {% for i in studentInfo%}
+            <li>
+                <a href="#">{{i.sname}}</a>
+            </li>
+        {%endfor%}
+</body>
+</html>

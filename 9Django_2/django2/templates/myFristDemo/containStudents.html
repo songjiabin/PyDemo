@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>contain 模糊查询</title>
+</head>
+<body>
+        {%for i in containStudents%}
+            <h1>
+                <a href="#">{{i.id}} ----{{i.sname}}--{{i.scontent}}</a>
+            </h1>
+        {%endfor%}
+</body>
+</html>

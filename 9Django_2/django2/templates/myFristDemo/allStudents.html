@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>all Students </title>
+</head>
+<body>
+        {%for i in allStudents%}
+            <h1>
+                <a href="#">{{i.sname}}--{{i.scontent}}</a>
+            </h1>
+        {%endfor%}
+</body>
+</html>

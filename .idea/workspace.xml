@@ -2,36 +2,29 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/views.py" line="15" mnemonic="5" />
-    <bookmark url="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/urls.py" line="8" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/9Django_2/django2/myFristDemo/views.py" line="169" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efad2501-5358-404a-acee-00d029157b21" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/5线程/10线程调度.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/5线程/4ThreadLocal.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/5线程/5信号量控制线程数量.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/5线程/6凑数线程.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/5线程/7定时线程.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/5线程/8线程间的通信.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/5线程/9生产者与消费者.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/6mysql/1连接数据库.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/6mysql/2创建数据库表.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/6mysql/3数据库插入数据.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/6mysql/4数据库更改数据.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/6mysql/5数据库删除数据.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/6mysql/6数据库查询数据.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/6mysql/数据库封装调用.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/6mysql/数据库操作的封装.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/7MongoDB/1初始化.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/7MongoDB/2基本操作.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/7MongoDB/3查询文档.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/7MongoDB/4更新文档.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/7MongoDB/5删除文档.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/7MongoDB/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/8Django/djangoProject/djangoProject/settings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/8Django/djangoProject/myFristApp/urls.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/Grades.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/GradesStudent.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/Student.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10Django_3/project/myFristApp/urls.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10Django_3/project/templates/myFristApp/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10Django_3/project/templates/myFristApp/login.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10Django_3/project/templates/myFristApp/main.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/myFristDemo/urls.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/404.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/Grades.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/Students.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/addStudent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/allStudents.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/compareStudent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/containStudents.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/dateStudent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/exactStudent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/getOneStudent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/notnullstudent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/startWithOrEndWithStudents.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/whereStudent.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -44,55 +37,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/urls.py">
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10Django_3/project/templates/myFristApp/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10Django_3/project/myFristApp/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/views.py">
+        <entry file="file://$PROJECT_DIR$/10Django_3/project/myFristApp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="47" column="11" lean-forward="true" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GradesStudent.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/GradesStudent.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="482">
+              <caret line="64" column="26" lean-forward="false" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Grades.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/Grades.html">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10Django_3/project/templates/myFristApp/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="192">
+              <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/Student.html">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10Django_3/project/project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="-360">
+              <caret line="54" column="29" lean-forward="false" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -123,7 +114,15 @@
       <find>sql</find>
       <find>SecurityMiddleware</find>
       <find>student</find>
+      <find>INSTALLED_APPS</find>
+      <find>DATABASES</find>
+      <find>grades</find>
+      <find>getExactStudent</find>
+      <find>APPEND_SLASH</find>
     </findStrings>
+    <dirStrings>
+      <dir>E:\py_project_path\10Django_3</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -131,38 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4进程/1启动进程.py" />
-        <option value="$PROJECT_DIR$/4进程/1进程先后执行顺序.py" />
-        <option value="$PROJECT_DIR$/4进程/3全局变量在多个进程中不能共享.py" />
-        <option value="$PROJECT_DIR$/4进程/4启动大量子进程.py" />
-        <option value="$PROJECT_DIR$/4进程/5实现文件的拷贝.py" />
-        <option value="$PROJECT_DIR$/4进程/6进程的封装使用.py" />
-        <option value="$PROJECT_DIR$/4进程/7使用封装的进程.py" />
-        <option value="$PROJECT_DIR$/4进程/7、使用封装的进程.py" />
-        <option value="$PROJECT_DIR$/4进程/abc.py" />
-        <option value="$PROJECT_DIR$/4进程/使用封装的进程.py" />
-        <option value="$PROJECT_DIR$/4进程/6使用封装的进程.py" />
-        <option value="$PROJECT_DIR$/4进程/7进程间通信.py" />
-        <option value="$PROJECT_DIR$/1基础/3队列/队列.py" />
-        <option value="$PROJECT_DIR$/5线程/1线程.py" />
-        <option value="$PROJECT_DIR$/5线程/2线程间数据共享.py" />
-        <option value="$PROJECT_DIR$/5线程/3使用线程锁解决数据混乱.py" />
-        <option value="$PROJECT_DIR$/5线程/4ThreadLocal.py" />
-        <option value="$PROJECT_DIR$/5线程/5信号量控制线程数量、.py" />
-        <option value="$PROJECT_DIR$/5线程/5信号量控制线程数量.py" />
-        <option value="$PROJECT_DIR$/5线程/6凑数线程.py" />
-        <option value="$PROJECT_DIR$/5线程/7定时线程.py" />
-        <option value="$PROJECT_DIR$/5线程/8线程间的通信、.py" />
-        <option value="$PROJECT_DIR$/5线程/8线程间的通信.py" />
-        <option value="$PROJECT_DIR$/5线程/9生产者与消费者.py" />
-        <option value="$PROJECT_DIR$/5线程/10线程调度.py" />
-        <option value="$PROJECT_DIR$/6mysql/1连接数据库.py" />
-        <option value="$PROJECT_DIR$/6mysql/2创建数据库表.py" />
-        <option value="$PROJECT_DIR$/6mysql/4数据库更改数据.py" />
-        <option value="$PROJECT_DIR$/6mysql/3数据库插入数据.py" />
-        <option value="$PROJECT_DIR$/6mysql/5数据库删除数据.py" />
-        <option value="$PROJECT_DIR$/6mysql/7数据库操作的封装.py" />
-        <option value="$PROJECT_DIR$/6mysql/8数据库封装调用.py" />
         <option value="$PROJECT_DIR$/6mysql/数据库封装调用.py" />
         <option value="$PROJECT_DIR$/6mysql/数据库操作的封装.py" />
         <option value="$PROJECT_DIR$/6mysql/6数据库查询数据.py" />
@@ -176,17 +143,49 @@
         <option value="$PROJECT_DIR$/8Django/djangoProject/myFristApp/models.py" />
         <option value="$PROJECT_DIR$/8Django/djangoProject/myFristApp/admin.py" />
         <option value="$PROJECT_DIR$/8Django/djangoProject/djangoProject/urls.py" />
-        <option value="$PROJECT_DIR$/8Django/djangoProject/djangoProject/settings.py" />
         <option value="$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/Student.html" />
         <option value="$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/Grades.html" />
         <option value="$PROJECT_DIR$/8Django/djangoProject/myFristApp/urls.py" />
         <option value="$PROJECT_DIR$/8Django/djangoProject/myFristApp/views.py" />
         <option value="$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/GradesStudent.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/django2/__init__.py" />
+        <option value="$PROJECT_DIR$/8Django/djangoProject/djangoProject/settings.py" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/index.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/myFristDemo/admin.py" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/django2/urls.py" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/Students.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/addStudent.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/Grades.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/allStudents.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/myFristDemo/models.py" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/getOneStudent.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/containStudents.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/startWithOrEndWithStudents.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/exactStudent.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/notnullstudent.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/whereStudent.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/compareStudent.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/AllData.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/dateStudent.html" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/myFristDemo/urls.py" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/myFristDemo/views.py" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/templates/404.html" />
+        <option value="$PROJECT_DIR$/10Django_3/project/project/__init__.py" />
+        <option value="$PROJECT_DIR$/10Django_3/project/myFristApp/models.py" />
+        <option value="$PROJECT_DIR$/9Django_2/django2/django2/settings.py" />
+        <option value="$PROJECT_DIR$/10Django_3/project/templates/myFristApp/index.html" />
+        <option value="$PROJECT_DIR$/10Django_3/project/templates/myFristApp/mian.html" />
+        <option value="$PROJECT_DIR$/10Django_3/project/project/urls.py" />
+        <option value="$PROJECT_DIR$/10Django_3/project/myFristApp/urls.py" />
+        <option value="$PROJECT_DIR$/10Django_3/project/myFristApp/views.py" />
+        <option value="$PROJECT_DIR$/10Django_3/project/templates/myFristApp/login.html" />
+        <option value="$PROJECT_DIR$/10Django_3/project/project/settings.py" />
+        <option value="$PROJECT_DIR$/10Django_3/project/templates/myFristApp/main.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="-59" />
     <option name="y" value="-8" />
     <option name="width" value="1444" />
     <option name="height" value="876" />
@@ -207,6 +206,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,33 +217,33 @@
             <path>
               <item name="py_project_path" type="b2602c69:ProjectViewProjectNode" />
               <item name="py_project_path" type="462c0819:PsiDirectoryNode" />
-              <item name="8Django" type="462c0819:PsiDirectoryNode" />
+              <item name="10Django_3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="py_project_path" type="b2602c69:ProjectViewProjectNode" />
               <item name="py_project_path" type="462c0819:PsiDirectoryNode" />
-              <item name="8Django" type="462c0819:PsiDirectoryNode" />
-              <item name="djangoProject" type="462c0819:PsiDirectoryNode" />
+              <item name="10Django_3" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="py_project_path" type="b2602c69:ProjectViewProjectNode" />
               <item name="py_project_path" type="462c0819:PsiDirectoryNode" />
-              <item name="8Django" type="462c0819:PsiDirectoryNode" />
-              <item name="djangoProject" type="462c0819:PsiDirectoryNode" />
-              <item name="myFristApp" type="462c0819:PsiDirectoryNode" />
+              <item name="10Django_3" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="py_project_path" type="b2602c69:ProjectViewProjectNode" />
               <item name="py_project_path" type="462c0819:PsiDirectoryNode" />
-              <item name="8Django" type="462c0819:PsiDirectoryNode" />
-              <item name="djangoProject" type="462c0819:PsiDirectoryNode" />
+              <item name="10Django_3" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="py_project_path" type="b2602c69:ProjectViewProjectNode" />
               <item name="py_project_path" type="462c0819:PsiDirectoryNode" />
-              <item name="8Django" type="462c0819:PsiDirectoryNode" />
-              <item name="djangoProject" type="462c0819:PsiDirectoryNode" />
+              <item name="10Django_3" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="myFristApp" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -251,7 +251,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -454,19 +453,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1629055" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19957687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45222074" sideWeight="0.50564176" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.056527592" sideWeight="0.49435824" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55047107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.02153432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.056527592" sideWeight="0.49435824" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48183042" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48183042" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -474,6 +472,25 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45222074" sideWeight="0.50564176" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55047107" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.056527592" sideWeight="0.49435824" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1819464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48183042" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -553,251 +570,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4进程/5实现文件的拷贝.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4进程/1启动进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4进程/2进程先后执行顺序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2爬虫/13、屌丝扒女装.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1基础/3队列/队列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1基础/3队列/利用队列遍历目录.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1基础/3队列/利用栈遍历目录.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4进程/进程的封装使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5线程/1线程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5线程/3使用线程锁解决数据混乱.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5线程/4ThreadLocal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4进程/7进程间通信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3网络编程/TCP编程/2客户端服务端交互/服务端.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3网络编程/TCP编程/2客户端服务端交互/客户端.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5线程/2线程间数据共享.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5线程/5信号量控制线程数量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5线程/7定时线程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5线程/6凑数线程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5线程/8线程间的通信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5线程/9生产者与消费者.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="37" column="61" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5线程/10线程调度.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6mysql/2创建数据库表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6mysql/4数据库更改数据.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6mysql/3数据库插入数据.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6mysql/6数据库查询数据.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6mysql/数据库操作的封装.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6mysql/数据库封装调用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7MongoDB/1初始化.py">
+    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/Grades.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6mysql/5数据库删除数据.py">
+    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/GradesStudent.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254">
-          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="336">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7MongoDB/2基本操作.py">
+    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/Student.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="12" />
+        <state relative-caret-position="312">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7MongoDB/3查询文档.py">
+    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/djangoProject/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="96">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7MongoDB/4更新文档.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7MongoDB/5删除文档.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8Django/1初学.py" />
     <entry file="file://$PROJECT_DIR$/8Django/djangoProject/djangoProject/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6mysql/1连接数据库.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="216">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -808,45 +612,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/migrations/0001_initial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/djangoProject/__init__.py">
+    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/djangoProject/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8Django/djangoProject/djangoProject/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="66" column="1" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="66" selection-end-column="1" />
+        <state relative-caret-position="1012">
+          <caret line="110" column="15" lean-forward="false" selection-start-line="110" selection-start-column="11" selection-end-line="110" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/manage.py">
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/myFristDemo/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -857,62 +654,297 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/django/shortcuts.py">
+    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/myFristDemo/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/djangoProject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/Students.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/getOneStudent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/allStudents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/containStudents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="72" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/addStudent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/whereStudent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/startWithOrEndWithStudents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/notnullstudent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/compareStudent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/AllData.html" />
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/exactStudent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/dateStudent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/myFristDemo/Grades.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/myFristDemo/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/templates/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/project/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/myFristApp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/myFristApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/myFristApp/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/myFristDemo/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="432">
+          <caret line="42" column="31" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/GradesStudent.html">
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/myFristDemo/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="506">
+          <caret line="121" column="8" lean-forward="true" selection-start-line="70" selection-start-column="3" selection-end-line="121" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/Student.html">
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/django2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="818">
+          <caret line="56" column="25" lean-forward="false" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/views.py">
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/myFristApp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="47" column="11" lean-forward="true" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+        <state relative-caret-position="458">
+          <caret line="75" column="19" lean-forward="false" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/templates/myFristApp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/django2/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="21" column="11" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/myFristDemo/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-624">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="33" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/myFristApp/urls.py">
+    <entry file="file://$PROJECT_DIR$/9Django_2/django2/myFristDemo/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="-1438">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8Django/djangoProject/templates/myFristApp/Grades.html">
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/project/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="552">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#641#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="54" column="29" lean-forward="false" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/myFristApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="64" column="26" lean-forward="false" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/myFristApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/templates/myFristApp/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10Django_3/project/templates/myFristApp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="28" />
           <folding />
         </state>
       </provider>
